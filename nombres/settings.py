@@ -25,7 +25,7 @@ SECRET_KEY = '2+y(_-(kg(qf3z=w_hhwngiws0!#_c=h*ux=h$aizq0^00w9-*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jenniferbio.pythonanywhere.com']
 
 
 # Application definition
@@ -114,7 +114,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-
+a = b
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
